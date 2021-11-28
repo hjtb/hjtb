@@ -31,7 +31,7 @@
 
 ### UX & Design
 
-![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)  
 ![GIMP](https://www.gimp.org/🎨)
 
 ### Main Projects
