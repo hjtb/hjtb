@@ -2,7 +2,7 @@
 
 ### I am a Full stack Developer! ![The Code Institute](https://img.shields.io/badge/Code%20Institute-Student-red)
 
-📚  Currently studying Web Application Development @  [The Code Institute](https://learn.codeinstitute.net/) 
+📚  Currently studying Web Application Development @  [The Code Institute](https://learn.codeinstitute.net/) and training with [DT-Squad](https://www.dt-squad.com/)https://img.shields.io/badge/Dt--Squad-Trainee%20Developer-orange
 
 ### Languages
 
