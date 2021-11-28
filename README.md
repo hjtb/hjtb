@@ -1,7 +1,7 @@
 # Hi,! 👋
 ### I am a Full stack Developer, currently working on my final Milestone project!
 
-📚  Currently studying Web Application Development @  ![The Code Institute](https://learn.codeinstitute.net/)  
+📚  Currently studying Web Application Development @  ![The Code Institute](https://img.shields.io/badge/Code%20Institute-Student-red)  
 
 ### Languages
 
