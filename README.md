@@ -32,7 +32,7 @@
 ### UX & Design
 
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)  
-![GIMP](https://www.gimp.org/🎨)
+![GIMP](https://img.shields.io/badge/GIMP-%F0%9F%96%8C%EF%B8%8F-blue)
 
 ### Main Projects
 
