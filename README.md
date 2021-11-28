@@ -36,5 +36,7 @@
 
 
 #### <strong>Milestone 2 - Doom: </strong><a href="https://github.com/hjtb/Doom-Quiz" alt="Doom Repo" target="_blank">Repo</a> | <a href="https://hjtb.github.io/Doom-Quiz/" alt="Doom Quiz website" target="_blank">Website</a>
-####<strong>Milestone 1 - Everythings Grand: </strong><a href="https://github.com/hjtb/everythings-grand/blob/master/README.md" alt="Everythings Grand Repo" target="_blank">Repo</a> | <a href="https://hjtb.github.io/everythings-grand/" alt="Everythings Grand website" target="_blank">Website</a>
-####<strong>My first web app - Gym Machines: </strong><a href="https://github.com/hjtb/gym_machines" alt="Gym Machines Repo" target="_blank">Repo</a> | <a href="https://hjtb.eu.pythonanywhere.com/" alt="Gym Machines website" target="_blank">Website</a>
+
+#### <strong>Milestone 1 - Everythings Grand: </strong><a href="https://github.com/hjtb/everythings-grand/blob/master/README.md" alt="Everythings Grand Repo" target="_blank">Repo</a> | <a href="https://hjtb.github.io/everythings-grand/" alt="Everythings Grand website" target="_blank">Website</a>
+
+#### <strong>My first web app - Gym Machines: </strong><a href="https://github.com/hjtb/gym_machines" alt="Gym Machines Repo" target="_blank">Repo</a> | <a href="https://hjtb.eu.pythonanywhere.com/" alt="Gym Machines website" target="_blank">Website</a>
