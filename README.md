@@ -13,8 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />   
 
 - ### **Future learning plans**
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />
 
 ### Languages
 
