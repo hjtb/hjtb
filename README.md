@@ -5,7 +5,7 @@
 📚  Currently studying Web Application Development @  [The Code Institute](https://learn.codeinstitute.net/) and training with [DT-Squad](https://www.dt-squad.com/)  
 ✍🏽  Blog Entry @ [DT-Squad](https://www.dt-squad.com/blog?id=677)
 
-
+-------------------------
 ### Languages
 
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5)
@@ -36,6 +36,8 @@
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)  
 ![GIMP](https://img.shields.io/badge/GIMP-%F0%9F%96%8C%EF%B8%8F-blue)
 
+* * * * *
+
 ### Main Projects
 
 
@@ -44,6 +46,8 @@
 #### <strong>Milestone 1 - Everythings Grand: </strong><a href="https://github.com/hjtb/everythings-grand/blob/master/README.md" alt="Everythings Grand Repo" target="_blank">Repo</a> | <a href="https://hjtb.github.io/everythings-grand/" alt="Everythings Grand website" target="_blank">Website</a>
 
 #### <strong>My First Web App - Gym Machines: </strong><a href="https://github.com/hjtb/gym_machines" alt="Gym Machines Repo" target="_blank">Repo</a> | <a href="https://hjtb.eu.pythonanywhere.com/" alt="Gym Machines website" target="_blank">Website</a>
+
+_ _ _ _ _
 
 - ## **My Current Stack**
 
