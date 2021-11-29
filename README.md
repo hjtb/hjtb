@@ -59,5 +59,7 @@ _ _ _ _ _
 - ## **Future learning plans**
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" height="50px" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" />   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
+_ _ _ _ _
+
 ## Contact Me
 <a href="https://www.linkedin.com/in/william-holton-jtb"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:willholtonjtb@gmail.com"><img height="50px" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
