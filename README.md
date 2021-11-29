@@ -26,7 +26,8 @@
 ### Content & Version Management
 
 ![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌙&style=flat&color=1AA6E4&logo=gitpod)
-![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)  
+![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
 
 
 ### UX & Design
