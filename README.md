@@ -2,8 +2,8 @@
 
 ### I am a Full Stack Developer! ![The Code Institute](https://img.shields.io/badge/Code%20Institute-Student-red) ![DT-Squad](https://img.shields.io/badge/Dt--Squad-Trainee%20Developer-orange)
 
-📚  Currently studying Web Application Development @  [The Code Institute](https://learn.codeinstitute.net/) and training with [DT-Squad](https://www.dt-squad.com/)  
-✍🏽  Blog Entry @ [DT-Squad](https://www.dt-squad.com/blog?id=677)
+📚   Currently studying Web Application Development @  [The Code Institute](https://learn.codeinstitute.net/) and training with [DT-Squad](https://www.dt-squad.com/)  
+✍🏽   Blog Entry @ [DT-Squad](https://www.dt-squad.com/blog?id=677)
 
 -------------------------
 ### Languages
