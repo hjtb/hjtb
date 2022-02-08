@@ -33,7 +33,7 @@
 
 ### UX & Design
 
-![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap) ![MaterialDesign](https://img.shields.io/static/v1?label=MaterialDesign&message=🎨&style=flat&color=757575&logo=material-design)  
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap) ![Materialize](https://img.shields.io/static/v1?label=Materialize&message=🎨&style=flat&color=757575&logo=materialize)  
 ![GIMP](https://img.shields.io/static/v1?label=GIMP&message=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A8&style=flat&color=000098&logo=gimp)
 
 * * * * *
