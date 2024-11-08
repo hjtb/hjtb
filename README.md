@@ -40,9 +40,9 @@
 
 ### Main Projects
 
-#### <strong>Milestone 4 - Hurtlocker: </strong><a href="https://github.com/hjtb/Hurtlocker" alt="Doom Repo" target="_blank">Repo</a> | <a href="https://hurtlocker-jtb.herokuapp.com/" alt="Hurtlocker website" target="_blank">Website</a>
+#### <strong>Milestone 4 - Hurtlocker: </strong><a href="https://github.com/hjtb/Hurtlocker" alt="Doom Repo" target="_blank">Repo</a> 
 
-#### <strong>Milestone 3 - Get Strong: </strong><a href="https://github.com/hjtb/Get-Strong" alt="Doom Repo" target="_blank">Repo</a> | <a href="http://get-strong-app.herokuapp.com/login?next=%2F" alt="Get Strong website" target="_blank">Website</a>
+#### <strong>Milestone 3 - Get Strong: </strong><a href="https://github.com/hjtb/Get-Strong" alt="Doom Repo" target="_blank">Repo</a> 
 
 #### <strong>Milestone 2 - Doom: </strong><a href="https://github.com/hjtb/Doom-Quiz" alt="Doom Repo" target="_blank">Repo</a> | <a href="https://hjtb.github.io/Doom-Quiz/" alt="Doom Quiz website" target="_blank">Website</a>
 
